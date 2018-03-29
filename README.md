@@ -6,3 +6,5 @@
     var str2 =fun_aes.AES_Encrypt("这是测试数据");
     var str2 = fun_aes.AES_Decrypt(str);
         }
+
+使用说明 https://www.jianshu.com/p/8b8c53907f31
