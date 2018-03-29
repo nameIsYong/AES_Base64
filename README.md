@@ -3,8 +3,6 @@
         外部js调用public.js
         myFunction: function (e) {
     var fun_aes = require('../../utils/libs/public.js');
-    //加密
-    var str = fun_aes.AES_Encrypt("这是测试数据");
-    //解密
-    var str2 = fun_aes.AES_Decrypt(str);
+    //加密\<br>var str = fun_aes.AES_Encrypt("这是测试数据");
+    //解密\<br>var str2 = fun_aes.AES_Decrypt(str);
         }
